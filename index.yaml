@@ -1,9 +1,20 @@
 apiVersion: v1
 entries:
+  javachart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2025-10-21T13:38:38.3216331+05:30"
+    description: A Helm chart for Kubernetes
+    digest: 25faccc501742a4f876259b491c98c89bd6433e1ab42dcc73e15e2f4b3137fc3
+    name: javachart
+    type: application
+    urls:
+    - https://charan0407.github.io/helmrepo04/javachart-0.1.0.tgz
+    version: 0.1.0
   mavenchart:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-10-21T13:18:30.5448196+05:30"
+    created: "2025-10-21T13:38:38.3227109+05:30"
     description: A Helm chart for Kubernetes
     digest: a97f6cf680180d6483d139f1d9954181020ad3f0ea269521260ae4889f9d239e
     name: mavenchart
@@ -14,7 +25,7 @@ entries:
   spring:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-10-21T13:18:30.5459045+05:30"
+    created: "2025-10-21T13:38:38.3232367+05:30"
     description: A Helm chart for Kubernetes
     digest: 13da7885db2d1349596b943924d924107ae2e5f743e5e8f3af92be80391f88c8
     name: spring
@@ -22,4 +33,4 @@ entries:
     urls:
     - https://charan0407.github.io/helmrepo04/spring-0.1.0.tgz
     version: 0.1.0
-generated: "2025-10-21T13:18:30.5432444+05:30"
+generated: "2025-10-21T13:38:38.320506+05:30"
